@@ -14,8 +14,8 @@ const CONFIG = {
   HEO_HERO_TITLE_2: '领跑未来职场',
   HEO_HERO_TITLE_3: 'vtea.ltd',
   HEO_HERO_TITLE_4: '新版上线',
-  HEO_HERO_TITLE_5: '新一代AI自动内容创作平台',
-  HEO_HERO_TITLE_LINK: 'https://u.aiprm.top',
+  HEO_HERO_TITLE_5: 'Aichat-web 新一代AI自动内容创作平台',
+  HEO_HERO_TITLE_LINK: 'https://nanjiren.online',
 
   // 英雄区显示三个置顶分类
   HEO_HERO_CATEGORY_1: { title: '必看精选', url: '/tag/必看精选' },
